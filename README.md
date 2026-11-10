@@ -48,6 +48,17 @@ Deployed via GitHub-connected Vercel production: https://accesspilot-ai-samertal
 
 Vercel reports deployment `dpl_AwGXu5ZeSCpfVWdbXtn3gqEdzrKm` as READY and authentication protection disabled. The deployment is sourced from this repository's `main` branch. Independent browser HTTP access could not be established in the current environment.
 
+## Visual walkthrough
+
+![AccessPilot AI checkout audit](screenshots/01-checkout.jpg)
+
+- [Checkout audit screenshot](screenshots/01-checkout.jpg)
+- [Article audit screenshot](screenshots/02-article.jpg)
+- [Accessible example screenshot](screenshots/03-accessible.jpg)
+- [Watch/download narrated MP4](https://accesspilot-ai-samertalls-projects.vercel.app/accesspilot-demo.mp4)
+
+The screenshot images were captured from the running application in Chromium. The narrated video is assembled from genuine application screenshots; it is not a continuous live screen recording.
+
 ## Local validation
 
 Executed in headless Chromium using the same HTML/CSS/JavaScript: checkout 6 findings, news article 11, accessible example 0; no JavaScript runtime errors. This validates the local application, not the public delivery path.
