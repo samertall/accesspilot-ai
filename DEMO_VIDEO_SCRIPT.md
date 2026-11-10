@@ -19,3 +19,7 @@ Return to checkout and click JSON or Report. Narrate: “Exports are local. The 
 Show the homepage. Narrate: “AccessPilot AI: design for everyone. Our next steps are broader rules, testing with accessibility practitioners, and real-world validation of ranking.”
 
 **Recording requirement:** Capture the working application itself (not promotional mockups). Show the exported output. Record 1920×1080 or 1280×720 with readable text. Confirm permissions if the recording includes anything sensitive. Upload the completed video to an accessible host and add its URL to Devpost.
+
+## Generated demonstration
+
+`accesspilot-demo.mp4` is a narrated walkthrough assembled from captures of the functioning local application in Chromium. It is not a continuous real-time screen recording. The narration uses synthesized speech. The video needs uploading to a public video host for Devpost.
