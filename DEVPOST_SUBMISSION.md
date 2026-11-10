@@ -40,15 +40,15 @@ HTML5, CSS3, JavaScript, DOMParser, k-nearest neighbors, WCAG-informed heuristic
 
 ## Submission links
 
-**Live demo:** PLACEHOLDER — Existing deployed URL `https://accesspilot-ai-slay-2026.usefulotter1.chatgpt.site` must be made public and confirmed to host this source version before submission.
+**Live demo:** https://accesspilot-ai-samertalls-projects.vercel.app (Vercel production deployment READY; independently checking public access remains recommended).
 
 **Public source:** https://github.com/samertall/accesspilot-ai
 
-**Video:** PLACEHOLDER — Record a 2–4 minute demonstration showing checkout audit, findings/fixes, export, second example, model limitations.
+**Video:** https://accesspilot-ai-samertalls-projects.vercel.app/accesspilot-demo.mp4 — 3:07 narrated walkthrough assembled from genuine browser captures; for an embedded Devpost video field, upload this MP4 to YouTube or Vimeo and provide that URL.
 
-**Screenshots:** PENDING — add real screenshots of the application. Automated screenshot capture was blocked in this environment.
+**Screenshots:** [Checkout](https://accesspilot-ai-samertalls-projects.vercel.app/screenshots/01-checkout.jpg), [Article](https://accesspilot-ai-samertalls-projects.vercel.app/screenshots/02-article.jpg), [Accessible page](https://accesspilot-ai-samertalls-projects.vercel.app/screenshots/03-accessible.jpg) — captured from the working application in Chromium.
 
 **Reviewer note:** This is an educational, browser-only accessibility assistant; not an accessibility certification or a production-validated predictive model.
-## AI-assisted development disclosure
+## Development assistance disclosure
 
-Source code and presentation materials were developed with AI assistance at the participant's direction. The on-device 3-nearest-neighbors model uses twelve disclosed synthetic training examples; its ranking is illustrative and unvalidated on real-world labeled audit datasets.
+The project code, documentation and demonstration assets were produced with AI assistance at the participant's direction. The on-device 3-nearest-neighbors classifier was built using twelve explicitly synthetic examples. This illustrative ranking is neither real-world validated nor a calibrated predictor of impact.
